@@ -4,13 +4,11 @@
 <dict>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>io.metamask.MetaMask</key>
+		<key>io.metamask.MetaMask.jerry</key>
 		<string>Bitrise AppStore io.metamask.MetaMask</string>
 	</dict>
 	<key>uploadSymbols</key>
 	<true/>
-	<key>teamID</key>
-	<string>48XVW22RCG</string>
 	<key>method</key>
 	<string>app-store</string>
 </dict>
